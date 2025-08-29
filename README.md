@@ -1,113 +1,140 @@
-<h1 style="color:#FF4500; font-family:Georgia; font-size:38px;">☕ BridgeLabz</h1>
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/☕-BridgeLabz%20SIPP%20Training-orange?style=for-the-badge&logo=java&logoColor=white" alt="BridgeLabz Banner"/>
+</p>
 
-<p style="font-family:Verdana; font-size:16px;">
-Welcome to the <b>official repository of BridgeLabz</b> – a learning and development space focused on building <b>strong programming fundamentals</b> across multiple technical domains.
+<h1 align="center" style="color:#FF4500; font-family:Georgia; font-size:40px;">🚀 Welcome to BridgeLabz Official Repository</h1>
+
+<p align="center" style="font-family:Verdana; font-size:16px;">
+A learning & development space focused on building <b>strong programming fundamentals</b> across multiple technical domains.  
 </p>
 
 ---
 
-<h2 style="color:#1E90FF; font-family:Verdana; font-size:26px;">🚀 BridgeLabz SIPP Training</h2>
+## 🎯 About SIPP Training
+This repository contains **Java projects** and **problem statements** developed during the **BridgeLabz Summer Internship Program (SIPP)**.  
+It is organized into **branches & day-wise folders** for structured learning.  
 
-<p style="font-family:Verdana; font-size:15px;">
-This repository contains <b>Java projects</b> and <b>problem statements</b> developed during the <b>BridgeLabz Summer Internship Program (SIPP)</b>.
-It is organized into multiple branches, each focusing on a specific area:
+---
+
+## 📁 Repository Structure  
+
+- 🌱 `main`  
+- 📘 `core-java`  
+- 🏷️ `oops`  
+- 🧮 `dsa`  
+- ✍️ `pseudocode`  
+- 🌀 `generics-collections`  
+
+---
+
+## 🌿 Branch Descriptions  
+
+<!-- ========== MAIN BRANCH BOX ========== -->
+<details>
+<summary>🌱 <b style="font-size:18px;">Main Branch</b></summary>
+<br>
+<div style="border:2px solid #FF4500; border-radius:15px; padding:15px; background:#fff3e6; box-shadow: 5px 5px 15px #888;">
+  
+📑 Project-level **README.md**  
+📚 General resources & guidelines  
+⚙️ Setup and usage instructions  
+
+</div>
+</details>
+
+---
+
+<!-- ========== CORE JAVA BOX ========== -->
+<details>
+<summary>📘 <b style="font-size:18px;">Core Java</b></summary>
+<br>
+<div style="border:2px solid #1E90FF; border-radius:15px; padding:15px; background:#e6f3ff; box-shadow: 5px 5px 15px #888;">
+
+Focuses on **fundamental Java programming concepts**.  
+
+**📂 Folder Structure**  
+
+| Day | Description | Folder |
+|-----|-------------|--------|
+| 01  | Introduction to Java Programming Elements | `Day-01_ProgrammingElements` |
+| 02  | Control Flow | `Day-02_ControlFlow` |
+| 03  | Arrays | `Day-03_Arrays` |
+| 04  | Strings | `Day-04_Strings` |
+| 05  | Methods | `Day-05_Methods` |
+
+</div>
+</details>
+
+---
+
+<!-- ========== OOPS BOX ========== -->
+<details>
+<summary>🏷️ <b style="font-size:18px;">OOPS (Object-Oriented Programming)</b></summary>
+<br>
+<div style="border:2px solid #32CD32; border-radius:15px; padding:15px; background:#eaffea; box-shadow: 5px 5px 15px #888;">
+
+Focuses on **Object-Oriented concepts** for designing scalable and reusable solutions.  
+
+📂 **Folder Structure**  
+- 🏗️ `AbstractClass`  
+- 🔑 `Constructors`  
+- 🔒 `Encapsulation`  
+- 🧬 `Inheritance`  
+- 🧩 `Interface`  
+- 📝 `Keywords`  
+- 🧑‍💻 `ObjectModeling`  
+- ⚙️ `ObjectOrientedProgramming`  
+- 🎭 `Polymorphism`  
+
+</div>
+</details>
+
+---
+
+<!-- ========== DSA BOX ========== -->
+<details>
+<summary>🧮 <b style="font-size:18px;">DSA (Data Structures & Algorithms)</b></summary>
+<br>
+<div style="border:2px solid #FFD700; border-radius:15px; padding:15px; background:#fffbe6; box-shadow: 5px 5px 15px #888;">
+
+Builds a strong foundation in **Data Structures & Algorithms (DSA)**.  
+
+📂 **Folder Structure**  
+- 🔗 `Day1_LinkedList`  
+- 📦 `Day2_Stack_Queue_Hashmap_Hashset`  
+- 🔃 `Day3_Sortings`  
+- 🔍 `Day4_LinearBinarySearch`  
+- ⏱️ `Day05_RuntimeAnalysis`  
+
+</div>
+</details>
+
+---
+
+<!-- ========== GENERICS BOX ========== -->
+<details>
+<summary>🌀 <b style="font-size:18px;">Generics & Collections</b></summary>
+<br>
+<div style="border:2px solid #8A2BE2; border-radius:15px; padding:15px; background:#f3e6ff; box-shadow: 5px 5px 15px #888;">
+
+📂 **Folder Structure**  
+- 📑 `Day01_JavaGenerics`  
+- 📚 `Day02_Collections`  
+
+</div>
+</details>
+
+---
+
+## 🧠 Learning Outcomes  
+
+- 📘 Strong **theoretical understanding** of Java concepts  
+- 💻 Hands-on practice with **coding exercises**  
+- 🛠️ Ability to apply **OOP & DSA** in real-world projects  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-Happy%20Learning%20with%20BridgeLabz-20B2AA?style=for-the-badge" />
 </p>
-
-<ul style="font-family:Verdana; font-size:15px;">
-<li>🧩 <b>Core Java</b></li>
-<li>🏗️ <b>Object-Oriented Programming (OOP)</b></li>
-<li>📊 <b>Data Structures & Algorithms (DSA)</b></li>
-<li>🛠️ <b>Hands-on Workshops</b></li>
-</ul>
-
----
-
-<h2 style="color:#32CD32; font-family:Verdana; font-size:24px;">📁 Repository Structure</h2>
-
-<p style="font-family:Verdana; font-size:15px;">
-This repository consists of the following main <b>branches/modules</b>:
-</p>
-
-<ul style="font-family:Verdana; font-size:15px;">
-<li>🌱 <code>main</code></li>
-<li>📘 <code>core-java</code></li>
-<li>🏷️ <code>oops</code></li>
-<li>🧮 <code>dsa</code></li>
-<li>✍️ <code>pseudocode</code></li>
-<li>🌀 <code>generics-collections</code></li>
-</ul>
-
-<p style="font-family:Verdana; font-size:15px;">
-Each branch contains <b>day-wise folders</b>, ensuring structured and consistent learning.
-</p>
-
----
-
-<h2 style="color:#FF1493; font-family:Verdana; font-size:24px;">🌿 Branch Descriptions</h2>
-
-<h3 style="color:#FF6347; font-family:Verdana;">🔹 main</h3>
-<p>- 📑 Project-level <b>README.md</b><br>
-- 📚 General resources & guidelines<br>
-- ⚙️ Setup and usage instructions</p>
-
----
-
-<h3 style="color:#FF6347; font-family:Verdana;">🔹 core-java</h3>
-<p>Focuses on <b>fundamental Java programming concepts</b> to build a strong foundation in syntax, logic, and structure.</p>
-
-<table style="border:1px solid gray; font-family:Verdana; font-size:15px;">
-<tr><th>Day</th><th>Description</th><th>Folder Link</th></tr>
-<tr><td>01</td><td>Introduction to Java Programming Elements</td><td><code>Day-01_ProgrammingElements</code></td></tr>
-<tr><td>02</td><td>Control Flow</td><td><code>Day-02_ControlFlow</code></td></tr>
-<tr><td>03</td><td>Arrays</td><td><code>Day-03_Arrays</code></td></tr>
-<tr><td>04</td><td>Strings</td><td><code>Day-04_Strings</code></td></tr>
-<tr><td>05</td><td>Methods</td><td><code>Day-05_Methods</code></td></tr>
-</table>
-
----
-
-<h3 style="color:#FF6347; font-family:Verdana;">🔹 oops</h3>
-<ul>
-<li>🏗️ <code>AbstractClass</code></li>
-<li>🔑 <code>Constructors</code></li>
-<li>🔒 <code>Encapsulation</code></li>
-<li>🧬 <code>Inheritance</code></li>
-<li>🧩 <code>Interface</code></li>
-<li>📝 <code>Keywords</code></li>
-<li>🧑‍💻 <code>ObjectModeling</code></li>
-<li>⚙️ <code>ObjectOrientedProgramming</code></li>
-<li>🎭 <code>Polymorphism</code></li>
-</ul>
-
----
-
-<h3 style="color:#FF6347; font-family:Verdana;">🔹 dsa</h3>
-<ul>
-<li>🔗 <code>Day1_LinkedList</code></li>
-<li>📦 <code>Day2_Stack_Queue_Hashmap_Hashset</code></li>
-<li>🔃 <code>Day3_Sortings</code></li>
-<li>🔍 <code>Day4_LinearBinarySearch</code></li>
-<li>⏱️ <code>Day05_RuntimeAnalysis</code></li>
-</ul>
-
----
-
-<h3 style="color:#FF6347; font-family:Verdana;">🔹 Generics and Collections</h3>
-<ul>
-<li>📑 <code>Day01_JavaGenerics</code></li>
-<li>📚 <code>Day02_Collections</code></li>
-</ul>
-
----
-
-<h2 style="color:#FFD700; font-family:Verdana; font-size:24px;">🧠 Learning Outcomes</h2>
-
-<ul style="font-family:Verdana; font-size:15px;">
-<li>📘 A strong <b>theoretical understanding</b> of Java concepts</li>
-<li>💻 Hands-on practice with <b>coding exercises & problem-solving</b></li>
-<li>🛠️ Ability to apply <b>OOP & DSA concepts</b> in real-world projects</li>
-</ul>
-
----
-
-<h3 style="color:#20B2AA; font-family:Verdana;">✨ Happy Learning with BridgeLabz 🚀</h3>
