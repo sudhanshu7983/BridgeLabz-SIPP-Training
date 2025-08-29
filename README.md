@@ -1,53 +1,111 @@
-<h1 align="center" style="color:#2563EB; font-size: 42px;">
-🚀 BridgeLabz Repository
-</h1>
+<!-- Cover Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/☕-BridgeLabz%20SIPP%20Training-orange?style=for-the-badge&logo=java&logoColor=white" alt="BridgeLabz Banner"/>
+</p>
 
-<p align="center" style="color:#1E3A8A; font-size:18px;">
-A premium learning & development space focused on building <b>strong programming fundamentals</b> across various domains.
+<h1 align="center" style="color:#FF4500; font-family:Georgia; font-size:50px;">🚀 BRIDGELABZ OFFICIAL REPOSITORY</h1>
+
+<p align="center" style="font-family:Verdana; font-size:16px;">
+A learning & development space focused on building <b>strong programming fundamentals</b> across multiple technical domains.  
 </p>
 
 ---
 
-## 📂 Branches
-
-### 🔹 Core Java
-<div style="border: 2px solid #2563EB; border-radius: 12px; padding: 15px; background-color:#F3F4F6; box-shadow: 4px 4px 10px #d1d5db;">
-  
-| **Week** | **Content** |
-|----------|-------------|
-| Week 1   | Basics of Java, JDK, JVM, Data Types |
-| Week 2   | OOP Concepts, Classes & Objects |
-| Week 3   | Inheritance, Polymorphism |
-| Week 4   | Exception Handling, Collections |
-
-</div>
+## 🎯 About SIPP Training
+This repository contains **Java projects** and **problem statements** developed during the **BridgeLabz Summer Internship Program (SIPP)**.  
+It is organized into **branches & day-wise folders** for structured learning.  
 
 ---
 
-### 🔹 PseudoCode
-<div style="border: 2px solid #10B981; border-radius: 12px; padding: 15px; background-color:#F3F4F6; box-shadow: 4px 4px 10px #d1d5db;">
+## 📁 Repository Structure  
 
-| **Week** | **Content** |
-|----------|-------------|
-| Week 1   | ![Week 1](pseudo/week1.png) |
-| Week 2   | ![Week 2](pseudo/week2.png) |
-
-</div>
-
----
-
-### 🔹 Other Branches
-<div style="border: 2px solid #F59E0B; border-radius: 12px; padding: 15px; background-color:#F3F4F6; box-shadow: 4px 4px 10px #d1d5db;">
-  
-- 🌱 **Spring Boot**
-- 📊 **SQL**
-- 🐧 **Linux**
-- ☁️ **Cloud Basics**
-
-</div>
+- 🌱 `main`  
+- 📘 `core-java`  
+- 🏷️ `oops`  
+- 🧮 `dsa`  
+- ✍️ `pseudocode`  
+- 🌀 `generics-collections`  
 
 ---
 
-<p align="center" style="color:#EF4444; font-size:16px;">
-⚡ Built with consistency, practice, and passion for learning!
+## 🌿 Branch Descriptions  
+
+---
+
+### 🌱 Main
+| Content |
+|----------|
+| 📑 Project-level **README.md** |
+| 📚 General resources & guidelines |
+| ⚙️ Setup and usage instructions |
+
+---
+
+### 📘 Core Java
+| Day | Description | Folder |
+|-----|-------------|--------|
+| 01  | Introduction to Java Programming Elements | `Day-01_ProgrammingElements` |
+| 02  | Control Flow | `Day-02_ControlFlow` |
+| 03  | Arrays | `Day-03_Arrays` |
+| 04  | Strings | `Day-04_Strings` |
+| 05  | Methods | `Day-05_Methods` |
+
+---
+
+### 🏷️ OOPS
+| Topic | Folder |
+|-------|--------|
+| 🏗️ Abstract Classes | `AbstractClass` |
+| 🔑 Constructors | `Constructors` |
+| 🔒 Encapsulation | `Encapsulation` |
+| 🧬 Inheritance | `Inheritance` |
+| 🧩 Interface | `Interface` |
+| 📝 Keywords | `Keywords` |
+| 🧑‍💻 Object Modeling | `ObjectModeling` |
+| ⚙️ Object-Oriented Programming | `ObjectOrientedProgramming` |
+| 🎭 Polymorphism | `Polymorphism` |
+
+---
+
+### 🧮 DSA
+| Day | Description | Folder |
+|-----|-------------|--------|
+| 01  | Linked List | `Day1_LinkedList` |
+| 02  | Stack, Queue, HashMap, HashSet | `Day2_Stack_Queue_Hashmap_Hashset` |
+| 03  | Sorting Algorithms | `Day3_Sortings` |
+| 04  | Linear & Binary Search | `Day4_LinearBinarySearch` |
+| 05  | Runtime Analysis | `Day05_RuntimeAnalysis` |
+
+---
+
+### ✍️ Pseudocode
+| Week | Day | Problems |
+|------|-----|----------|
+| **Week1** | Day1 | CallCentre, TextEditor, Library, Pat |
+|          | Day2 | JobScheduler, QuizTime, SmartFarming, TrafficSignal |
+|          | Day3 | FoodDeliveryApp, MazeServerBot, MedicalRecordManager, PatientRecord |
+|          | Day4 | BankingPortal, CrimePrediction, FlightPlaneAnalyzer, VehicleRental |
+|          | Day5 | AutoCompleteSearchSuggestion, DistributedLoadBalancer, HealthDiagnosisSystem, RestaurantPOSBillingSystem |
+| **Week2** | Day1 | AttendanceMaker, BusRouteNavigator, MovieTicketBooking, OnlineExamPortal |
+|          | Day2 | AttendanceMaker, BusRouteNavigator, OnlineExamPortal, ParkingLotSystem |
+
+---
+
+### 🌀 Generics & Collections
+| Day | Description | Folder |
+|-----|-------------|--------|
+| 01  | Java Generics | `Day01_JavaGenerics` |
+| 02  | Collections | `Day02_Collections` |
+
+---
+
+## 🧠 Learning Outcomes  
+- 📘 Strong **theoretical understanding** of Java concepts  
+- 💻 Hands-on practice with **coding exercises**  
+- 🛠️ Ability to apply **OOP & DSA** in real-world projects  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-Happy%20Learning%20with%20BridgeLabz-20B2AA?style=for-the-badge" />
 </p>
